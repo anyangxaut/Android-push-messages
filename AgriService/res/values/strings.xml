@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">果业技术服务</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main_interface">消息推送设置</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_hello_main">HelloMainActivity</string>
+    <string name="title_activity_basic">BasicActivity</string>
+    <string name="title_activity_today_message">今日消息</string>
+    <string name="title_activity_history_mesage">历史消息</string>
+    <string name="title_activity_setup">系统设置</string>
+    <string name="menu_settings">设置</string>
+    <string name="title_activity_notice_view">消息提示</string>
+    <string name="start">开启服务</string>
+    <string name="local">本地存储</string>
+    <string name="message">消息订阅</string>
+
+</resources>
